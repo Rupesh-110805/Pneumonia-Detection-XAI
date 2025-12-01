@@ -1,0 +1,17 @@
+﻿# Dataset folders (too large for GitHub)
+train/
+test/
+val/
+
+# Model files 
+.keras
+.tflite
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Large model files
+*.keras
+*.tflite
