@@ -1,0 +1,9 @@
+streamlit
+tflite-runtime==2.14.0
+Pillow
+numpy==1.24.4
+
+# For Grad-CAM (Explainable AI)
+tensorflow>=2.14.0
+opencv-python>=4.8.0
+matplotlib>=3.7.0
